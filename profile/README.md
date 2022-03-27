@@ -61,8 +61,9 @@ Below is a list of the components that make up the universe:
   - [AuthN](https://github.com/fluqxverse/authn)
   - [AuthZ](https://github.com/fluqxverse/authz)
   - [Identity Broker](https://github.com/fluqxverse/identity-broker)
-- shared libraries:
-  - [Auth Security Spring Boot Starter](https://github.com/fluqxverse/shared/tree/develop/auth-security-spring-boot-starter)
+- shared libraries/utilities:
+  - [Auth Security Spring Boot Starter](https://github.com/fluqxverse/auth-security-spring-boot-starter)
+  - [Maven BOM](https://github.com/fluqxverse/maven-bom)
 
 ## Credits
 
