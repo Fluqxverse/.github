@@ -1,2 +1,1 @@
-# .github
-Repository for managing general information about organization
+An internal repository for managing general information about organization.
