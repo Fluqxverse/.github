@@ -14,8 +14,13 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-3E66E2?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
+## ⛔️ Maintenance ⛔️
+The project is currently under maintenance - therefore all of the repositories are temporarily hidden.
+
+
 ## About 🔍
 Fluqxverse is my personal project developed in free time and it is focused on building consistent and reliable microservice architecture based on JVM using latest technologies and approaches.
+
 
 You will be able to find here topics such as:
 - Spring Boot
